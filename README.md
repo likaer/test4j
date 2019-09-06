@@ -16,7 +16,7 @@ test4j是一个单元测试和集成测试的框架，它提供了以下特性
 
 ```xml
 <properties>
-    <jmockit.version>1.45</jmockit.version>
+    <jmockit.version>1.8</jmockit.version>
 </properties>
 <dependencies>
     <dependency>
